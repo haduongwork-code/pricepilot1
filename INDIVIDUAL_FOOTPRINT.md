@@ -73,6 +73,7 @@ Các phần công thức Python em tham gia gồm:
 - Tính độ co giãn cầu theo giá.
 - Chuẩn hóa các khoảng dữ liệu thị trường.
 - Chuẩn bị dữ liệu đầu vào cho mô phỏng Monte Carlo.
+  
 **5. Bằng chứng đóng góp**
 
 Bằng chứng có thể kiểm tra được gồm:
