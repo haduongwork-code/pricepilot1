@@ -115,5 +115,7 @@ Khó khăn cuối cùng là đảm bảo dữ liệu từ M2 đủ sạch và đ
    
 Nếu sinh viên khóa sau tiếp tục phát triển phần này, em nghĩ nên bắt đầu bằng việc hiểu rõ từng input trước khi sửa công thức. Với mô hình định giá, không nên thêm biến chỉ vì thấy mô hình còn đơn giản, mà cần hỏi biến đó có thật sự giúp người dùng ra quyết định tốt hơn không.
 Ngoài ra, nên kiểm tra rất kỹ đơn vị dữ liệu và logic tính toán. Những lỗi nhỏ như nhầm năm với tháng, phần trăm với số thập phân, hoặc tiền tệ có dấu phẩy đều có thể làm kết quả sai.
+<img width="1698" height="926" alt="image" src="https://github.com/user-attachments/assets/9b08cd16-f6ba-40c9-acbe-34eacfcf2b1f" />
+
 Nếu có thời gian phát triển tiếp, nhóm sau có thể thêm tính năng upload file Excel để người dùng nhập dữ liệu nhanh hơn, hoặc lưu lại các bộ input cũ để so sánh nhiều kịch bản định giá khác nhau.
 
