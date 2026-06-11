@@ -1,15 +1,15 @@
-**Individual Footprint**
+**Tran Ha Duong**
 
 **Thành viên: Dương – 2312380005**
 
 **1. Vai trò trong dự án**
    
-Trong dự án PricePilot, em phụ trách phần M2 – Data & Input. Nói đơn giản, phần việc của em là làm sao để những dữ liệu người dùng nhập vào có thể được hệ thống hiểu, xử lý và chuyển thành dữ liệu đầu vào cho mô hình mô phỏng phía sau.
+Trong dự án PricePilot, em phụ trách phần M2 – Data & Input. Phần việc của em là làm những dữ liệu người dùng nhập vào có thể được hệ thống hiểu, xử lý và chuyển thành dữ liệu đầu vào cho mô hình mô phỏng phía sau.
 Cụ thể, em tham gia xây dựng các nhóm input chính của sản phẩm, bao gồm thông tin về chi phí sản xuất, nguyên vật liệu, nhân công, chi phí cố định, nhu cầu hiện tại, giá bán trong quá khứ và các giả định thị trường. Bên cạnh đó, em cũng code các công thức trong Python để lấy dữ liệu từ form, xử lý dữ liệu nhập vào và tính ra các chỉ số nền tảng như chi phí trên mỗi đơn hàng, giá bán cơ sở, lợi nhuận hiện tại và độ co giãn cầu theo giá.
 
 **2. Dấu ấn cá nhân trong sản phẩm**
    
-Phần thể hiện rõ đóng góp của em nhất là luồng dữ liệu đầu vào của PricePilot. Người dùng chỉ nhìn thấy một form nhập liệu khá đơn giản, nhưng phía sau đó là các công thức giúp chuyển những con số rời rạc thành dữ liệu có thể dùng để chạy mô phỏng.
+Đóng góp lớn nhất của em là ở phần dữ liệu đầu vào của PricePilot. Người dùng chỉ nhìn thấy một form nhập liệu khá đơn giản, nhưng phía sau đó là các công thức giúp chuyển những con số rời rạc thành dữ liệu có thể dùng để chạy mô phỏng.
 Ví dụ, khi người dùng nhập loại vật liệu, sản lượng, tỷ lệ hao hụt, lương công nhân, chi phí điện, chi phí bảo trì, giá trị máy móc, nhu cầu hiện tại và dữ liệu giá – cầu trong quá khứ, hệ thống sẽ tự động tính ra các biến cần thiết cho mô hình. Đây là phần giúp kết nối giữa thông tin kinh doanh thực tế của người dùng và mô hình Monte Carlo ở các bước sau.
 Với em, dấu ấn cá nhân không nằm ở việc làm giao diện đẹp, mà nằm ở việc đảm bảo dữ liệu đầu vào được thiết kế hợp lý và các công thức phía sau chạy đúng logic.
 
