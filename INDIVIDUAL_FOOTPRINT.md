@@ -1,6 +1,6 @@
-**Tran Ha Duong**
+**Thành viên: Trần Hà Dương 
 
-**Thành viên: Dương – 2312380005**
+**MSV: 2312380005**
 
 **1. Vai trò trong dự án**
    
